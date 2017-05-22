@@ -75,7 +75,7 @@ function geolocalizar(){
 			  cargarCategoria();
 		  };
 		  var errorFunction = function(){
-			  alert("Compruebe que tiene activada la ubicación del dispositivo y que se encuentra cerca del municipio: Castilleja de la Cuesta");
+			  alert("Compruebe que tiene activada la ubicación del dispositivo y que se encuentra cerca del municipio: Istán");
 			  loading(false);
 		  };
 		  loading(true);	
